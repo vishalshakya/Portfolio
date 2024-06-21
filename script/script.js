@@ -41,7 +41,7 @@ project(
   "https://adfms.in/"
 );
 project(
-  "IWeb development internship",
+  "Web development internship",
   "Making a Landing for internship Task by using HTML, CSS",
   "https://vishalshakya.github.io/landing_page/"
 );
