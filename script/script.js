@@ -32,26 +32,26 @@ function project(title, des, link) {
 }
 project(
   "Front-End Web developed",
-  "Developed a site using the HTML,CSS,BootStrap and some internet sources for client.",
+  "Developed a site using the HTML, CSS, BootStrap, and some internet sources for client.",
   "http://mivps.in/"
 );
 project(
   "Front-End Web Developed",
-  "Developed a site using the HTML,CSS,BootStrap and some internet sources for client.",
+  "Developed a site using the HTML, CSS, BootStrap, and some internet sources for client.",
   "https://adfms.in/"
 );
 project(
   "Internship Task",
-  "Making a Landing for intership Task by using HTML,CSS",
+  "Making a Landing for internship Task by using HTML, CSS",
   "https://vishalshakya.github.io/landing_page/"
 );
 project(
   "Internship Mini Project",
-  "Making Portfolio for intership Project by using HTML,CSS,JavaScript",
-  "https://vishalshakya.github.io/Portfolio_vishal/"
+  "Making Portfolio for internship Project by using HTML, CSS, JavaScript",
+  "https://vishalshakya.github.io/Portfolio//"
 );
 project(
   "Internship Major Project",
-  "Making Weather app for intership Project by using HTML,CSS,JavaScript",
+  "Making Weather app for internship Project by using HTML, CSS, JavaScript",
   "https://vishalshakya.github.io/weather/"
 );
