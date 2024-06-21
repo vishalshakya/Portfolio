@@ -19,7 +19,7 @@ card("./image/microsoft.png", "MSOffice", "Beginner");
 
 function project(title, des, link) {
   let skills = `<div class="pro-list">
-            <h3><img src="./image/leftarrow.svg" width="20px" alt="" /> ${title}</h3>
+            <h3>${title}</h3>
             <p class="des">
               ${des}
             </p>
