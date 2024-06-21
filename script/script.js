@@ -41,17 +41,12 @@ project(
   "https://adfms.in/"
 );
 project(
-  "Web development internship",
-  "Making a Landing for internship Task by using HTML, CSS",
-  "https://vishalshakya.github.io/landing_page/"
-);
-project(
-  "Web development Internship (Mini Project)",
+  "Portfolio ",
   "Making Portfolio for internship Project by using HTML, CSS, JavaScript",
   "https://vishalshakya.github.io/Portfolio//"
 );
 project(
-  "Web development Internship (Major Project)",
+  "Weather app",
   "Making Weather app for internship Project by using HTML, CSS, JavaScript",
   "https://vishalshakya.github.io/weather/"
 );
