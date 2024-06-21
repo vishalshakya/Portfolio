@@ -119,6 +119,7 @@
 }
 .pro-list h3 {
   font-size: 25px;
+  padding-left: 20px;
   letter-spacing: 2px;
 }
 .des {
@@ -174,7 +175,6 @@ footer {
     padding-bottom: 20px;
     padding-top: 10px;
   }
- 
 }
 /* ----------------------------------------- RESPONSIVE (MAX WIDTH 800PX) SECTION ---------------------------------------------------- */
 
