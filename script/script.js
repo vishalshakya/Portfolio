@@ -31,27 +31,27 @@ function project(title, des, link) {
     document.querySelector(".project").innerHTML + skills;
 }
 project(
-  "Front-End Web developed",
+  "Maurya Institute(Front-End)",
   "Developed a site using the HTML, CSS, BootStrap, and some internet sources for client.",
   "http://mivps.in/"
 );
 project(
-  "Front-End Web Developed",
+  "Adhisha Faculty(Front-End)",
   "Developed a site using the HTML, CSS, BootStrap, and some internet sources for client.",
   "https://adfms.in/"
 );
 project(
-  "Internship Task",
+  "IWeb development internship",
   "Making a Landing for internship Task by using HTML, CSS",
   "https://vishalshakya.github.io/landing_page/"
 );
 project(
-  "Internship Mini Project",
+  "Web development Internship (Mini Project)",
   "Making Portfolio for internship Project by using HTML, CSS, JavaScript",
   "https://vishalshakya.github.io/Portfolio//"
 );
 project(
-  "Internship Major Project",
+  "Web development Internship (Major Project)",
   "Making Weather app for internship Project by using HTML, CSS, JavaScript",
   "https://vishalshakya.github.io/weather/"
 );
