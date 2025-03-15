@@ -33,12 +33,12 @@ function project(title, des, link) {
 project(
   "Maurya Institute(Front-End)",
   "Developed a site using the HTML, CSS, BootStrap, and some internet sources for client.",
-  "http://mivps.in/"
+  "#"
 );
 project(
   "Adhisha Faculty(Front-End)",
   "Developed a site using the HTML, CSS, BootStrap, and some internet sources for client.",
-  "https://adfms.in/"
+  "#"
 );
 project(
   "Portfolio ",
