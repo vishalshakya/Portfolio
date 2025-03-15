@@ -48,5 +48,5 @@ project(
 project(
   "Weather app",
   "Making Weather app for internship Project by using HTML, CSS, JavaScript",
-  "https://vishalshakya.github.io/weather/"
+  "https://vishalshakya.github.io/Weather_new/"
 );
